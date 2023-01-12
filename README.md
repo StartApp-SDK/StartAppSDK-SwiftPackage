@@ -9,4 +9,4 @@ https://support.start.io/hc/en-us/articles/360006012633
 ## Supported platforms
 - iOS 11.0 and later
 
-Copyright 2022 Start.io
+Copyright 2023 Start.io
